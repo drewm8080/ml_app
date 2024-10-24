@@ -1,4 +1,7 @@
 pandas
 numpy 
 seaborn
+matplotlib
+warnings
+dill
 -e .
